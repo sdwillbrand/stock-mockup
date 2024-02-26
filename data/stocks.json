@@ -1,0 +1,12 @@
+[
+  { "ticker": "TII", "name": "Tech Innovate Inc." },
+  { "ticker": "GHP", "name": "Global Health Pharma" },
+  { "ticker": "ERE", "name": "Eco Renewable Energy" },
+  { "ticker": "QCC", "name": "Quantum Computing Corp." },
+  { "ticker": "FFL", "name": "Future Foods Ltd." },
+  { "ticker": "SHS", "name": "Smart Home Solutions" },
+  { "ticker": "CSD", "name": "Cyber Security Defense" },
+  { "ticker": "SEE", "name": "Space Exploration Enterprises" },
+  { "ticker": "AII", "name": "Artificial Intelligence Innovations" },
+  { "ticker": "NGT", "name": "Next-Gen Transportation" }
+]
